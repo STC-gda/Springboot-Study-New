@@ -1,0 +1,33 @@
+I'm returning to UBC after an authorized academic leave therefore I don't have an enrolment letter for the next semester right now.
+
+2022/3/31
+今日学习
+1.关于@Async 注解使用的回顾和巩固，多线程并发类。
+2.ResponseEntity的解释以及使用。
+3.Request，reponse在severlet中的作用。
+
+4.Executor和ThreadPool
+----Spring ThreadPoolTaskExecutor 继承了 Java ThreadPoolExecutor
+
+5.FutureTask
+--跟线程池 ExecutorService结合使用以获取结果。
+--继续跟进
+
+6.CAS操作
+
+7.新下载的俩本书
+--这样读书才对
+--学习之道
+-------之后跟进《自控力》
+
+
+
+2022/4/1
+1.Executor和CompletableFuture基本学习完成。
+---ExecutorService executor = Executors.newSingleThreadExecutor;
+--CompletableFuture future = CompletableFuture.tthenApplyAsync(()->{});
+---FutureTask需要跟进，executor.submit(new task())
+
+2.销售的技巧
+---从简单的问题问起。-比起以来就询问客户具体的需求，不如从其他相关信息问起，例如住在哪里，几点回家等。 -》有的放矢
+---通过提前解释可能的提问以降低对方可能提出问题后对解答的排斥感。
